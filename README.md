@@ -1,142 +1,152 @@
-# Hi, I'm Kirtan Patel 👋
+# Kirtan Patel
 
-### Software + Cloud + Backend Engineer | AWS Certified | AI/LLM Application Builder
+**Software Engineering Student · AWS Certified · Building AI-Powered & Cloud-Native Applications**
 
-I am a Computer and Information Sciences student at Harrisburg University, graduating in May 2027. I build practical software projects using cloud infrastructure, backend APIs, full-stack development, and AI/LLM workflows.
-
-My current focus is building production-style applications with Python, FastAPI, React/Next.js, AWS, Docker, Supabase, Stripe, and OpenAI APIs.
-
----
-
-## 🚀 What I’m Working On
-
-- Building ResumeAI Hub, an AI-powered resume analysis and generation platform
-- Developing cloud/backend projects using AWS EC2, Lambda, S3, RDS, DynamoDB, AppSync, Cognito, and Amplify
-- Improving full-stack systems with authentication, payments, rate limits, dashboards, and deployment pipelines
-- Expanding my skills in backend engineering, DevOps, AI/LLM applications, and cloud architecture
+[![Location](https://img.shields.io/badge/Harrisburg,_PA-U.S._Citizen-blue?style=flat-square)](#)
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#)
+[![AWS CDA](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-kirtan0515-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kirtan0515)
 
 ---
 
-## 🧠 Technical Skills
+## About Me
 
-**Languages:** Python, Java, C++, Go, JavaScript, SQL  
-**Frontend:** React.js, Next.js, HTML, CSS  
-**Backend:** FastAPI, REST APIs, GraphQL, Node.js  
-**Cloud:** AWS EC2, Lambda, S3, RDS, DynamoDB, VPC, IAM, CloudWatch, Amplify, AppSync  
-**DevOps:** Docker, GitHub Actions, Linux, Nginx, Terraform, Kubernetes basics  
-**AI/LLM:** OpenAI API, RAG, embeddings, FAISS, prompt engineering, output evaluation  
-**Databases:** PostgreSQL, MySQL, DynamoDB, Supabase  
+I'm a Computer and Information Sciences student at Harrisburg University (graduating May 2027) with two AWS certifications and hands-on experience building full-stack, cloud-native, and AI-powered applications. Currently working as a **Quantum Technology Intern** at SE&M Solutions LLC — SE&M Quantum Storm Initiative, in collaboration with Harrisburg University.
+
+I focus on writing clean, production-quality code and designing systems that are scalable, secure, and maintainable.
 
 ---
 
-## 📌 Featured Projects
+## Currently Building
 
-### 🔹 ResumeAI Hub — AI Resume Analysis & Generation Platform
-
-An AI-powered resume platform that analyzes resumes against job descriptions and provides structured feedback, ATS-style scoring, missing skills, improved bullets, and resume generation support.
-
-**Tech Stack:** Next.js, React, FastAPI, Python, OpenAI API, FAISS, Supabase, Stripe, Docker, AWS EC2, Nginx, Vercel
-
-**Highlights:**
-- Built a full-stack AI resume analysis system with resume upload, job description matching, and structured JSON feedback
-- Implemented RAG using embeddings and vector search for context-aware resume evaluation
-- Deployed backend on AWS EC2 with Docker, Nginx reverse proxy, and HTTPS
-- Integrated Supabase authentication and Stripe subscription logic for future monetization
-
-Repository: [resume-ai-builder](https://github.com/kirtan0515/resume-ai-builder)
+🔬 Working on quantum technology initiatives at SE&M Solutions LLC  
+🤖 Expanding **ResumeAI Hub** — an AI-powered resume analysis platform with RAG, embeddings, and ATS scoring  
+☁️ Deepening expertise in cloud architecture, infrastructure as code, and DevOps workflows
 
 ---
 
-### 🔹 ConnectNest — Campus Engagement Platform
+## Featured Projects
 
-A cloud-based campus engagement platform designed for student events, posts, real-time updates, groups, and communication.
+### [ResumeAI Hub](https://github.com/kirtan0515/resume-ai-builder)
+> AI-powered resume analysis and generation platform
 
-**Tech Stack:** React, AWS Amplify, AppSync, Cognito, DynamoDB, GraphQL, Lambda, S3
+**Tech:** Next.js · React · FastAPI · Python · OpenAI API · RAG · FAISS · Supabase · Stripe · Docker · AWS EC2 · Nginx · Vercel
 
-**Highlights:**
-- Designed a campus-focused social platform with event posting, dashboard feeds, and real-time features
-- Used AWS Amplify, AppSync, DynamoDB, and Cognito for authentication and cloud backend services
-- Built reusable React components for posts, events, dashboard, and profile pages
-
-Repository: [CampusEngagementPlatform](https://github.com/kirtan0515/CampusEngagementPlatform)
-
----
-
-### 🔹 AWS Two-Tier Networked Application
-
-A cloud infrastructure project demonstrating deployment of a two-tier application using AWS networking and compute services.
-
-**Tech Stack:** AWS VPC, EC2, RDS, Load Balancer, Security Groups, IAM, CloudWatch
+- Resume upload and parsing with structured JSON feedback
+- Job description matching and ATS-style scoring
+- Missing skills detection and improved bullet suggestions
+- Authentication, payments (Stripe), and cloud deployment
 
 ---
 
-### 🔹 Universal Chat Application
+### [ConnectNest](https://github.com/kirtan0515/CampusEngagementPlatform)
+> Cloud-based campus engagement platform
 
-A Swift-based real-time chat application with automated message translation for global communication.
+**Tech:** React · AWS Amplify · AppSync · Cognito · DynamoDB · GraphQL · Lambda · S3
 
-**Tech Stack:** Swift, AWS EC2, Docker, Linux, APIs
-
----
-
-## 🎓 Education
-
-**Harrisburg University of Science and Technology**  
-Bachelor of Computer and Information Sciences  
-Expected Graduation: **May 2027**
+- Posts, events, dashboard, and profile pages
+- Real-time updates via GraphQL subscriptions
+- Fully serverless architecture on AWS
 
 ---
 
-## 🏅 Certifications
+### AWS Two-Tier Networked Application
+> Secure two-tier cloud architecture
 
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Developer – Associate
+**Tech:** AWS VPC · EC2 · RDS · Load Balancer · Security Groups · IAM · CloudWatch
 
----
-
-## 💼 Experience
-
-### Quantum Technology Intern  
-**SE&M Solutions LLC — SE&M Quantum Storm Initiative**  
-In collaboration with Harrisburg University
-
-- Supporting Android and iOS mobile application development for EMS-powered technology solutions
-- Working on mobile app prototyping, UX testing, QA, and sandbox testing
-- Benchmarking QRNG and EMS performance for technical workflows
-- Documenting technical implementation insights and presenting prototype progress
+- Network isolation with public/private subnets
+- High availability with load balancing
+- Monitoring and access control via IAM and CloudWatch
 
 ---
 
-## 📊 GitHub Stats
+### Universal Chat Application
+> Real-time chat with automated translation
 
-![Kirtan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirtan0515&show_icons=true&theme=tokyonight)
+**Tech:** Swift · AWS EC2 · Docker · Linux · APIs
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan0515&layout=compact&theme=tokyonight)
+- Cross-language communication with real-time translation
+- Containerized backend deployed on AWS EC2
 
 ---
 
-## 🎯 Career Interests
+## Tech Stack
 
-I am currently looking for internship and entry-level opportunities in:
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Cloud & Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**AI & ML**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+
+---
+
+## Certifications
+
+| Certification | Issuer |
+|---|---|
+| AWS Certified Solutions Architect – Associate | Amazon Web Services |
+| AWS Certified Developer – Associate | Amazon Web Services |
+
+---
+
+## Career Focus
+
+I'm actively seeking **Summer 2025 / 2026 internship** opportunities in:
 
 - Software Engineering
 - Backend Development
 - Cloud Engineering
-- AWS / Cloud Support Engineering
-- Full-Stack Development
+- Full Stack Development
 - DevOps / Platform Engineering
 - AI / LLM Application Development
 
 ---
 
-## 📫 Connect With Me
+## GitHub Stats
 
-- GitHub: [github.com/kirtan0515](https://github.com/kirtan0515)
-- Email: kirtan.patel0515@gmail.com
-- LinkedIn: Add your LinkedIn URL here
-- Portfolio: Add your portfolio URL here
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirtan0515&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan0515&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
+</p>
 
 ---
 
-### Recruiter Summary
+## Contact
 
-I build practical, deployment-focused software projects across backend APIs, cloud infrastructure, full-stack applications, and AI/LLM workflows. My strongest work includes an AI resume analysis platform, AWS-backed campus engagement system, and cloud architecture projects.
+- 📧 Email: [kirtan0515@github](mailto:) *(replace with your email)*
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/) *(replace with your LinkedIn URL)*
+- 🌐 Portfolio: *Coming soon*
+
+---
+
+<p align="center">
+  <i>Open to opportunities — let's connect.</i>
+</p>
