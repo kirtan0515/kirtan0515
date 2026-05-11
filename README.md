@@ -119,7 +119,7 @@ I focus on writing clean, production-quality code and designing systems that are
 
 ## Career Focus
 
-I'm actively seeking **Summer 2025 / 2026 internship** opportunities in:
+I'm actively seeking 2026 internships and early-career opportunities in:
 
 - Software Engineering
 - Backend Development
@@ -133,7 +133,7 @@ I'm actively seeking **Summer 2025 / 2026 internship** opportunities in:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirtan0515&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kirtan0515&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan0515&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
@@ -141,8 +141,9 @@ I'm actively seeking **Summer 2025 / 2026 internship** opportunities in:
 
 ## Contact
 
-- 📧 Email: [kirtan0515@github](mailto:) **
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/) **
+- 📧 Email: [kirtan.patel0515@gmail.com](mailto:kirtan.patel0515@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/kirtanpatel0515](https://www.linkedin.com/in/kirtanpatel0515/)
+- 🐙 GitHub: [github.com/kirtan0515](https://github.com/kirtan0515)
 - 🌐 Portfolio: *Coming soon*
 
 ---
