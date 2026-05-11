@@ -150,3 +150,5 @@ I am actively seeking **2026 internships and early-career opportunities** in:
 ---
 
 ### Open to opportunities — let’s connect.
+
+<!-- Profile README | kirtan0515 -->
