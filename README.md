@@ -141,8 +141,8 @@ I'm actively seeking **Summer 2025 / 2026 internship** opportunities in:
 
 ## Contact
 
-- 📧 Email: [kirtan0515@github](mailto:) *(replace with your email)*
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/) *(replace with your LinkedIn URL)*
+- 📧 Email: [kirtan0515@github](mailto:) **
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/) **
 - 🌐 Portfolio: *Coming soon*
 
 ---
