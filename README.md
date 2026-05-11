@@ -1,110 +1,112 @@
 # Kirtan Patel
 
-**Software Engineering Student · AWS Certified · Building AI-Powered & Cloud-Native Applications**
+### Software Engineering Student · AWS Certified · Building AI-Powered & Cloud-Native Applications
 
-[![Location](https://img.shields.io/badge/Harrisburg,_PA-U.S._Citizen-blue?style=flat-square)](#)
-[![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#)
-[![AWS CDA](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Harrisburg%2C%20PA-U.S.%20Citizen-blue?style=flat-square)](#)
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#)
+[![AWS CDA](https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-kirtan0515-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kirtan0515)
 
 ---
 
 ## About Me
 
-I'm a Computer and Information Sciences student at Harrisburg University (graduating May 2027) with two AWS certifications and hands-on experience building full-stack, cloud-native, and AI-powered applications. Currently working as a **Quantum Technology Intern** at SE&M Solutions LLC — SE&M Quantum Storm Initiative, in collaboration with Harrisburg University.
+I am a Computer and Information Sciences student at **Harrisburg University of Science and Technology**, graduating in **May 2027**.
 
-I focus on writing clean, production-quality code and designing systems that are scalable, secure, and maintainable.
+I build practical, deployment-focused software projects across **backend APIs, cloud infrastructure, full-stack applications, and AI/LLM workflows**. My current focus is building production-style applications using **Python, FastAPI, React/Next.js, AWS, Docker, Supabase, Stripe, and OpenAI APIs**.
+
+I am also currently a **Quantum Technology Intern at SE&M Solutions LLC — SE&M Quantum Storm Initiative**, in collaboration with Harrisburg University.
 
 ---
 
 ## Currently Building
 
-🔬 Working on quantum technology initiatives at SE&M Solutions LLC  
-🤖 Expanding **ResumeAI Hub** — an AI-powered resume analysis platform with RAG, embeddings, and ATS scoring  
-☁️ Deepening expertise in cloud architecture, infrastructure as code, and DevOps workflows
+- **ResumeAI Hub** — AI-powered resume analysis and generation platform
+- Cloud/backend projects using **AWS EC2, Lambda, S3, RDS, DynamoDB, AppSync, Cognito, and Amplify**
+- Full-stack systems with authentication, payments, dashboards, rate limits, and deployment pipelines
+- Skills in **backend engineering, DevOps, AI/LLM applications, and cloud architecture**
 
 ---
 
 ## Featured Projects
 
 ### [ResumeAI Hub](https://github.com/kirtan0515/resume-ai-builder)
-> AI-powered resume analysis and generation platform
 
-**Tech:** Next.js · React · FastAPI · Python · OpenAI API · RAG · FAISS · Supabase · Stripe · Docker · AWS EC2 · Nginx · Vercel
+AI-powered resume analysis and generation platform that analyzes resumes against job descriptions and provides structured feedback, ATS-style scoring, missing skills, improved bullets, and resume generation support.
 
-- Resume upload and parsing with structured JSON feedback
-- Job description matching and ATS-style scoring
-- Missing skills detection and improved bullet suggestions
-- Authentication, payments (Stripe), and cloud deployment
+**Tech Stack:** Next.js · React · FastAPI · Python · OpenAI API · RAG · FAISS · Supabase · Stripe · Docker · AWS EC2 · Nginx · Vercel
+
+**Highlights:**
+- Built a full-stack AI resume analysis system with resume upload, job description matching, and structured JSON feedback
+- Implemented RAG using embeddings and vector search for context-aware resume evaluation
+- Deployed backend on AWS EC2 with Docker, Nginx reverse proxy, and HTTPS
+- Integrated Supabase authentication and Stripe subscription logic
 
 ---
 
 ### [ConnectNest](https://github.com/kirtan0515/CampusEngagementPlatform)
-> Cloud-based campus engagement platform
 
-**Tech:** React · AWS Amplify · AppSync · Cognito · DynamoDB · GraphQL · Lambda · S3
+Cloud-based campus engagement platform designed for student events, posts, real-time updates, groups, and communication.
 
-- Posts, events, dashboard, and profile pages
-- Real-time updates via GraphQL subscriptions
-- Fully serverless architecture on AWS
+**Tech Stack:** React · AWS Amplify · AppSync · Cognito · DynamoDB · GraphQL · Lambda · S3
+
+**Highlights:**
+- Designed a campus-focused platform with event posting, dashboard feeds, profile pages, and real-time features
+- Used AWS Amplify, AppSync, DynamoDB, and Cognito for authentication and cloud backend services
+- Built reusable React components for posts, events, dashboard, and profile pages
 
 ---
 
 ### AWS Two-Tier Networked Application
-> Secure two-tier cloud architecture
 
-**Tech:** AWS VPC · EC2 · RDS · Load Balancer · Security Groups · IAM · CloudWatch
+Cloud infrastructure project demonstrating deployment of a secure two-tier application using AWS networking and compute services.
 
-- Network isolation with public/private subnets
-- High availability with load balancing
-- Monitoring and access control via IAM and CloudWatch
+**Tech Stack:** AWS VPC · EC2 · RDS · Load Balancer · Security Groups · IAM · CloudWatch
 
 ---
 
 ### Universal Chat Application
-> Real-time chat with automated translation
 
-**Tech:** Swift · AWS EC2 · Docker · Linux · APIs
+Swift-based real-time chat application with automated message translation for global communication.
 
-- Cross-language communication with real-time translation
-- Containerized backend deployed on AWS EC2
+**Tech Stack:** Swift · AWS EC2 · Docker · Linux · APIs
 
 ---
 
 ## Tech Stack
 
-**Languages**  
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-**Cloud & Infrastructure**  
+**Cloud, DevOps & Databases**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-**Databases**  
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**AI & ML**  
+**AI / LLM**
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Vector%20Search-blue?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-Embeddings-green?style=flat-square)
 
 ---
 
@@ -119,7 +121,7 @@ I focus on writing clean, production-quality code and designing systems that are
 
 ## Career Focus
 
-I'm actively seeking 2026 internships and early-career opportunities in:
+I am actively seeking **2026 internships and early-career opportunities** in:
 
 - Software Engineering
 - Backend Development
@@ -132,22 +134,19 @@ I'm actively seeking 2026 internships and early-career opportunities in:
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirtan0515&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan0515&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
-</p>
+![Kirtan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirtan0515&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan0515&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 ## Contact
 
-- 📧 Email: [kirtan.patel0515@gmail.com](mailto:kirtan.patel0515@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/kirtanpatel0515](https://www.linkedin.com/in/kirtanpatel0515/)
-- 🐙 GitHub: [github.com/kirtan0515](https://github.com/kirtan0515)
-- 🌐 Portfolio: *Coming soon*
+- Email: [kirtan.patel0515@gmail.com](mailto:kirtan.patel0515@gmail.com)
+- LinkedIn: [linkedin.com/in/kirtanpatel0515](https://www.linkedin.com/in/kirtanpatel0515/)
+- GitHub: [github.com/kirtan0515](https://github.com/kirtan0515)
+- Portfolio: Coming soon
 
 ---
 
-<p align="center">
-  <i>Open to opportunities — let's connect.</i>
-</p>
+### Open to opportunities — let’s connect.
